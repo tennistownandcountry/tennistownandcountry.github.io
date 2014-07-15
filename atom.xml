@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[The Slums of Palo Alto]]></title>
-  <link href="http://slumsofpaloalto.github.io/atom.xml" rel="self"/>
-  <link href="http://slumsofpaloalto.github.io/"/>
-  <updated>2014-07-14T20:49:54-07:00</updated>
-  <id>http://slumsofpaloalto.github.io/</id>
+  <title><![CDATA[Tennis Town and Country]]></title>
+  <link href="http://tennistownandcountry.github.io/atom.xml" rel="self"/>
+  <link href="http://tennistownandcountry.github.io/"/>
+  <updated>2014-07-14T20:52:15-07:00</updated>
+  <id>http://tennistownandcountry.github.io/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Private Beta Book Kickstarter]]></title>
-    <link href="http://slumsofpaloalto.github.io/blog/kickstarter/"/>
+    <link href="http://tennistownandcountry.github.io/blog/kickstarter/"/>
     <updated>2014-07-01T09:00:00-07:00</updated>
-    <id>http://slumsofpaloalto.github.io/blog/kickstarter</id>
+    <id>http://tennistownandcountry.github.io/blog/kickstarter</id>
     <content type="html"><![CDATA[<p>I launched a Kickstarter!  <a href="http://goo.gl/F4tvuF">http://goo.gl/F4tvuF</a></p>
 
 <p>Basically this was to solve two issues:</p>
@@ -35,9 +35,9 @@ and even word on the internet don&rsquo;t really kick in that fast.  In maybe 7 
   
   <entry>
     <title type="html"><![CDATA[Minimal Viable Book: Version 5]]></title>
-    <link href="http://slumsofpaloalto.github.io/blog/mvb5/"/>
+    <link href="http://tennistownandcountry.github.io/blog/mvb5/"/>
     <updated>2014-06-29T09:00:00-07:00</updated>
-    <id>http://slumsofpaloalto.github.io/blog/mvb5</id>
+    <id>http://tennistownandcountry.github.io/blog/mvb5</id>
     <content type="html"><![CDATA[<p>In the last two weeks, my MVB has transformed a bit.  Some feedback to MVB1 made it obvious I was missing something critical: lessons
 learned about &lsquo;right&rsquo; and &lsquo;wrong&rsquo; things to do in a startup.  So I added that.  I also one day came up with a minimal viable ending, so
 I added that too.  The rest of the changes were due to art.  Or should I say Art!</p>
@@ -56,9 +56,9 @@ leverage the color in the normal textual flow as well.</p>
   
   <entry>
     <title type="html"><![CDATA[Minimal Viable Book (MVB)]]></title>
-    <link href="http://slumsofpaloalto.github.io/blog/mvb1/"/>
+    <link href="http://tennistownandcountry.github.io/blog/mvb1/"/>
     <updated>2014-06-12T09:00:00-07:00</updated>
-    <id>http://slumsofpaloalto.github.io/blog/mvb1</id>
+    <id>http://tennistownandcountry.github.io/blog/mvb1</id>
     <content type="html"><![CDATA[<p>Today all my work (and my life) gave birth to a Minimal Viable Book (MVB).  This is a book
 that isn&rsquo;t ready for true publication, but has enough content and structure that you can
 tell where it is going.  My MVB1 (there will be at least two more&hellip; I am writing this update 15 days late)
@@ -70,10 +70,10 @@ other people.  I have a book&hellip; a minimal viable book&hellip; but that is s
   
   <entry>
     <title type="html"><![CDATA[More 4]]></title>
-    <link href="http://slumsofpaloalto.github.io/blog/more4/"/>
+    <link href="http://tennistownandcountry.github.io/blog/more4/"/>
     <updated>2014-06-08T07:36:00-07:00</updated>
-    <id>http://slumsofpaloalto.github.io/blog/more4</id>
-    <content type="html"><![CDATA[<p>Can&rsquo;t go serving this morning, so instead I wrote a bit more of the book: <a href="http://slumsofpaloalto.github.io/more4">More 4</a>.  This may be one of the last extract sets since I think extracting the
+    <id>http://tennistownandcountry.github.io/blog/more4</id>
+    <content type="html"><![CDATA[<p>Can&rsquo;t go serving this morning, so instead I wrote a bit more of the book: <a href="http://tennistownandcountry.github.io/more4">More 4</a>.  This may be one of the last extract sets since I think extracting the
 core of the startup stories may be hard to read out of context.  Actually, everything may be hard to read out of the surrounding context, but I am hoping
 it is at least amusing.</p>
 
@@ -85,10 +85,10 @@ it is at least amusing.</p>
   
   <entry>
     <title type="html"><![CDATA[More 3]]></title>
-    <link href="http://slumsofpaloalto.github.io/blog/more3/"/>
+    <link href="http://tennistownandcountry.github.io/blog/more3/"/>
     <updated>2014-06-01T16:42:00-07:00</updated>
-    <id>http://slumsofpaloalto.github.io/blog/more3</id>
-    <content type="html"><![CDATA[<p>With a new month, now we start filling in the software-techy aspects of the book: <a href="http://slumsofpaloalto.github.io/more3">More 3</a>.  This isn&rsquo;t meant to be a major thread since I think other threads are more valuable
+    <id>http://tennistownandcountry.github.io/blog/more3</id>
+    <content type="html"><![CDATA[<p>With a new month, now we start filling in the software-techy aspects of the book: <a href="http://tennistownandcountry.github.io/more3">More 3</a>.  This isn&rsquo;t meant to be a major thread since I think other threads are more valuable
 to more people, but if you are interested in the software / programming parts, these will be woven in as well.</p>
 
 <p>Passed 30K words.</p>
@@ -97,10 +97,10 @@ to more people, but if you are interested in the software / programming parts, t
   
   <entry>
     <title type="html"><![CDATA[More 2]]></title>
-    <link href="http://slumsofpaloalto.github.io/blog/more2/"/>
+    <link href="http://tennistownandcountry.github.io/blog/more2/"/>
     <updated>2014-05-30T07:36:00-07:00</updated>
-    <id>http://slumsofpaloalto.github.io/blog/more2</id>
-    <content type="html"><![CDATA[<p>The raw content of the book surpassed 25,000 words in the last day.  So I added a second &lsquo;<a href="http://slumsofpaloalto.github.io/more2">More 2</a>&rsquo; section to keep
+    <id>http://tennistownandcountry.github.io/blog/more2</id>
+    <content type="html"><![CDATA[<p>The raw content of the book surpassed 25,000 words in the last day.  So I added a second &lsquo;<a href="http://tennistownandcountry.github.io/more2">More 2</a>&rsquo; section to keep
 things in manageable size.  A pass at organizing the content has been done as well, so whether the book ends at 50,000 or more
 words, it basically has a first full pass at structure and flow.</p>
 
@@ -110,10 +110,10 @@ words, it basically has a first full pass at structure and flow.</p>
   
   <entry>
     <title type="html"><![CDATA[More Samples]]></title>
-    <link href="http://slumsofpaloalto.github.io/blog/more-samples/"/>
+    <link href="http://tennistownandcountry.github.io/blog/more-samples/"/>
     <updated>2014-05-24T11:06:00-07:00</updated>
-    <id>http://slumsofpaloalto.github.io/blog/more-samples</id>
-    <content type="html"><![CDATA[<p>I added a significantly larger set of samples into the &lsquo;<a href="http://slumsofpaloalto.github.io/more">More</a>&rsquo; section.  I did not want to change the samples section itself because
+    <id>http://tennistownandcountry.github.io/blog/more-samples</id>
+    <content type="html"><![CDATA[<p>I added a significantly larger set of samples into the &lsquo;<a href="http://tennistownandcountry.github.io/more">More</a>&rsquo; section.  I did not want to change the samples section itself because
 that is meant to be concise.  I may be missing one or two that should be in there (maybe &lsquo;Dissent&rsquo;) to have more diversity, but
 it shouldn&rsquo;t just grow as more chapters seem to be &lsquo;possibly interesting&rsquo;.  The &lsquo;more&rsquo; section may grow over time as basically a
 sampling of the entire book.  Enjoy!  And thanks for all the encouragement.  Even some of my agent rejections seemed really encouraging.</p>
@@ -122,9 +122,9 @@ sampling of the entire book.  Enjoy!  And thanks for all the encouragement.  Eve
   
   <entry>
     <title type="html"><![CDATA[Site Launch!]]></title>
-    <link href="http://slumsofpaloalto.github.io/blog/site-launch/"/>
+    <link href="http://tennistownandcountry.github.io/blog/site-launch/"/>
     <updated>2014-05-21T15:17:00-07:00</updated>
-    <id>http://slumsofpaloalto.github.io/blog/site-launch</id>
+    <id>http://tennistownandcountry.github.io/blog/site-launch</id>
     <content type="html"><![CDATA[<p>Earlier today I decided that I should have a site for the book.  After doing so many startups, and with some great services out there,
 launching the IT (or Infrastructure) of a new company is incredibly easy.  A web site is among the easiest of the infrastructure to
 set up.  I purchased the domain name, pointed it at github.io, cloned and customized Octopress, and after a few &lsquo;rake generate; rake deploy&rsquo;
