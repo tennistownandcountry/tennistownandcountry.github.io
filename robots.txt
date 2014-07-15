@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://tennistownandcountry.github.io/sitemap.xml 
+Sitemap: http://slumsofpaloalto.github.io/sitemap.xml 
