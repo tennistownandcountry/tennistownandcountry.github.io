@@ -1,11 +1,15 @@
 body > header {
-  background: $header-bg;
+  background: #fff;
+
   h1 {
     display: inline-block;
     margin: 0;
     a, a:visited, a:hover {
       color: $title_color;
       text-decoration: none;
+    }
+    img {
+      width: 100%;
     }
   }
   h2 {
@@ -14,5 +18,10 @@ body > header {
     font-size: 1em;
     color: $subtitle-color;
     font-weight: normal;
+    background-color: inherit;
+    background-color: white;
+    float: left;
+    padding: 2% 2%;
+    color: #333;
   }
 }
