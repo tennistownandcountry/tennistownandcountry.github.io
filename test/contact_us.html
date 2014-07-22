@@ -1,0 +1,402 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" href="try/css/style.css">
+<link href="CSS/practice.css" rel="stylesheet" type="text/css" media="only screen and (min-width:800px)">
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Contact Us!</title>
+</head>
+<style type="text/css">
+  #footer {
+	width:100%;
+	left:0px;
+	bottom:0px;
+	width:100%;
+	border-top: 0px solid black;
+	border-bottom: 0px solid black;
+
+border-right: 0px solid black;
+
+border-left: 0px solid black;
+
+	background-color: transparent;
+	text-indemt: 5 px;
+	position: absolute-bottom;
+}
+.cycle-slideshow, .cycle-slideshow * { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+
+
+.cycle-slideshow { width: 100%; min-width: 320px; max-width: 960px; margin: 10px auto; padding: 0; position: relative;
+    
+z-index: -1;
+ }
+
+/* slideshow images (for most of the demos, these are the actual "slides") */
+.cycle-slideshow img { 
+    /* 
+    some of these styles will be set by the plugin (by default) but setting them here
+    helps avoid flash-of-unstyled-content
+    */
+    position: absolute; top: 0; left: 0;
+    width: 100%; padding: 0; display: block;
+	z-index:-1;
+}
+
+/* in case script does not load */
+.cycle-slideshow img:first-child {
+    position: static; z-index: 100;
+}
+
+/* pager */
+.cycle-pager { 
+    text-align: center; width: 75%; z-index: 800; position: absolute; top: 10px; overflow: visible;
+}
+.cycle-pager span {
+	font-family: arial;
+	font-size: 50px;
+	width: 16px;
+	height: 16px;
+	display: flex;
+	color: red;
+	cursor: pointer;
+	float: absoute;
+}
+.cycle-pager span.cycle-pager-active {
+	color: #FFF;
+}
+.cycle-pager > * { cursor: pointer;}
+
+
+/* caption */
+.cycle-caption { position: absolute; color: white; bottom: 15px; right: 15px; z-index: 700; }
+
+
+/* overlay */
+.cycle-overlay { 
+    font-family: tahoma, arial;
+    position: absolute; bottom: 0; width: 100%; z-index: 600;
+    background: black; color: black; padding: 15px; opacity: .5;
+}
+
+
+/* prev / next links */
+.cycle-prev, .cycle-next { position: inherited; top: 0; width: 30%; opacity: 0; filter: alpha(opacity=0); z-index: 800; height: 100%; cursor: pointer; }
+.cycle-prev { left: 0;  background: url(try/images/leftArrow.png) 50% 50% no-repeat;}
+.cycle-next { right: 0; background: url(try/images/rightArrow.png) 50% 50% no-repeat;}
+.cycle-prev:hover, .cycle-next:hover { opacity: .7; filter: alpha(opacity=70) }
+
+.disabled { opacity: .5; filter:alpha(opacity=50); }
+
+
+/* display paused text on top of paused slideshow */
+.cycle-paused:after {
+    content: 'Paused'; color: white; background: black; padding: 10px;
+    z-index: 500; position: absolute; top: 10px; right: 10px;
+    border-radius: 10px;
+    opacity: .5; filter: alpha(opacity=50);
+}
+
+#wrapper {
+        display: block;
+        margin: auto;
+        height: 800px;
+        width: 1424px;
+}
+#container {
+        overflow: display;
+}
+#slider {
+        display: block;
+        float: left;
+        height: 720px;
+        width: 960px;
+        overflow: hidden;
+        position: absolute;
+}
+#prev {
+       background-image: url(try/images/leftArrow.png);
+		background-repeat: no-repeat;
+		background-position: center center;
+		display: block;
+		float: left;
+		height: 720px;
+		width: 100px;
+		position: inherited;
+		z-index: 99;
+}
+#next {
+       background-image: url(try/images/rightArrow.png);
+		background-repeat: no-repeat;
+		background-position: center center;
+		display: block;
+		float: right;
+		height: 720px;
+		width: 100px;
+		position: relative;
+		z-index: 99;
+}
+
+body {
+	bakground-color: black;
+	color: black;
+}
+body {
+	background-image: url(photos/newbackground.jpeg);
+	background-size: 800x800px;
+	background-repeat: no-repeat;
+	background-position: left;
+	background-attachment: fixed;
+background-color: color|transparent|initial|inherit;
+	background-color: #FDC333;
+	color: #000000;
+	text-align: center;
+	border-color: #FDC333;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-right-style: none;
+	font-family: jockey-one;
+	font-style: normal;
+	font-weight: 400;
+	font-size: large;
+}
+
+
+nav {
+	display: block;
+	text-align: center;
+	 position: relative;
+	 z-index:inherit;
+ nav ul {
+ margin: 0;
+ padding:0;
+ list-style: none;
+ -webkit-box-sizing: content-box;
+ -moz-box-sizing: content-box;
+ box-sizing: content-box;
+}
+.nav a {
+	display: block;
+	background: #98bf21;
+	color: black;
+	text-decoration: none;
+	padding: 0.8em 1.8em;
+	text-transform: uppercase;
+	font-size: 80%;
+	letter-spacing: 2px;
+	text-shadow: 0 -1px 0 #000;
+	position: relative;
+	background-color: #rbg(255, 178, 46);
+}
+.nav {
+	vertical-align: top;
+	display: inline-block;
+	box-shadow: 1px -1px -1px 1px #000,  -1px 1px -1px 1px #fff,  0 0 6px 3px #fff;
+	border-radius: 6px;
+}
+.nav li {
+	position: relative;
+}
+.nav > li {
+	float: left;
+	border-bottom: none;
+	margin-right: 1px;
+}
+.nav > li > a {
+	margin-bottom: 1px;
+	box-shadow: inset 0 2em .33em -0.5em #555;
+}
+.nav > li:hover, .nav > li:hover > a {
+	border-bottom-color: black;
+}
+.nav li:hover > a {
+	color : #rgb(141, 144, 1);
+}
+.nav > li:first-child {
+	border-radius: 4px 0 0 4px;
+}
+.nav > li:first-child > a {
+	border-radius: 4px 0 0 0;
+	color: rgba(0,0,0,1.00);
+}
+.nav > li:last-child {
+	border-radius: 0 0 4px 0;
+	margin-right: 0;
+}
+.nav > li:last-child > a {
+	border-radius: 0 4px 0 0;
+	background-color: rgba(148,155,1,1.00);
+}
+.nav li li a {
+	margin-top: 1px;
+	-webkit-transition: all;
+	-o-transition: all;
+	transition: all;
+}
+.nav li a:first-child:nth-last-child(2):before {
+	content: "";
+	position: absolute;
+	height: 0;
+	width: 0;
+	border: 5px solid transparent;
+	top: 50%;
+	right: 5px;
+}
+/* submenu positioning*/
+.nav ul {
+	position: absolute;
+	white-space: nowrap;
+	border-bottom: 5px solid black;
+	z-index: 1;
+	left: -99999em;
+}
+.nav > li:hover > ul {
+	left: auto;
+	margin-top: 5px;
+	min-width: 100%;
+}
+.nav > li li:hover > ul {
+	left: 100%;
+	margin-left: 1px;
+	top: -1px;
+}
+/* arrow hover styling */
+.nav > li > a:first-child:nth-last-child(2):before {
+	border-top-color: #aaa;
+}
+.nav > li:hover > a:first-child:nth-last-child(2):before {
+	border: 5px solid transparent;
+	border-bottom-color: orange;
+	margin-top: -5px
+}
+.nav li li > a:first-child:nth-last-child(2):before {
+	border-left-color: #FFFFFF;
+	margin-top: -5px
+}
+.nav li li:hover > a:first-child:nth-last-child(2):before {
+	border: 5px solid transparent;
+	border-right-color: orange;
+	right: 10px;
+}
+.nav:active {
+	background-color: #FDC333;
+}
+.nav li li a:active {
+	background-color: #A7B601;
+	width: 150px;
+	height: 180px;
+}
+body h1 center {
+	font-size: xx-large;
+	font-weight: bold;
+}
+
+
+</style>
+<body>
+    <p>&nbsp;</p>
+<h1 align="center"> <a href="index.html"><img src="photos/logo.gif" width="63" height="35" align="center" border="4px" border-color="#000000" /></a> Tennis Town and Country </h1>
+<center>
+
+
+</center>
+
+<nav>
+  <ul class="nav">
+    <li><a href="#">Racquets</a>
+      <ul>
+        <li><a href="Racquets/Wilson/wilson_racquets.html">Wilson</a></li>
+        <li><a href="Racquets/Babolat/babolat_racquets.html">Babolat</a></li>
+        <li><a href="Racquets/Head/head_racquets.html">Head</a></li>
+        <li><a href="Racquets/Prince/prince_racquets.html">Prince</a></li>
+        <li><a href="Racquets/Volkl/volkl_racquets.html">Volkl</a></li>
+        <li><a href="Racquets/junior_racquets.html">Junior Racquets</a></li>
+      </ul>
+    </li>
+    <li> <a href="#">Shoes</a>
+      <ul>
+        <li><a href="#">Wilson</a>
+          <ul>
+            <li><a href="Shoes/Wilson/wilson_shoes_men.html">Mens</a></li>
+            <li><a href="Shoes/Wilson/wilson_womens_shoes.html">Womens</a></li>
+          </ul>
+        <li><a href ="#">Babolat</a>
+          <ul>
+            <li><a href="Shoes/Babalot/babolat_mens_shoes.html">Mens</a></li>
+            <li><a href="Shoes/Babalot/babolat_womens_shoes.html">Womens</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Asics</a>
+          <ul>
+            <li><a href="Shoes/Asics/asics_mens_shoes.html">Mens</a></li>
+            <li><a href="Shoes/Asics/asics_womens_shoes.html">Womens</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Prince</a>
+          <ul>
+            <li><a href="Shoes/Prince/prince_mens_shoes.html">Mens</a></li>
+            <li><a href="Shoes/Prince/prince_womens_shoes.html">Womens</a></li>
+          </ul>
+        </li>
+        <li><a href="#">K Swiss</a>
+          <ul>
+            <li><a href="Shoes/KSwiss/kswiss_mens_shoes.html">Mens</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#">Apparel</a>
+      <ul>
+        <li><a href="Apparel/Mens/mens_apparel.html">Mens</a></li>
+        <li><a href="Apparel/Womens/womens_apparel.html">Womens</a></li>
+        <li><a href="Apparel/Junior_Boys/jb_apparel.html">Junior Boys</a></li>
+        <li><a href="Apparel/Junior_Girls/jg_apparel.html">Junior Girls</a></li>
+      </ul>
+    </li>
+    <li><a href="strings/string.html">Stringing</a>
+      
+    </li>
+     <li><a href="demo.html">Demo Program</a></li>
+      <li><a href="contact_us.html">Contact</a></li>
+     <li><a href ="our_team.html">Our Team!</a></li>
+     
+   
+   
+   
+  </ul>
+  </ul>
+</nav>
+
+<center>
+<h2 align="center"> Contact Us!</h2>
+
+855 El Camino Real, Palo Alto CA 94301.
+Town &amp; Country Village #99</p>
+</center>
+<form id="form1" name="form1" method="post" action="">
+</form>
+<p>Call Us (650)-328-3223</p>
+<p>Monday-Saturday 10 AM - 7 PM</p>
+<p>Sunday 12 PM - 5 PM</p>
+
+  <h3 >Questions or Concerns </h3>
+
+<p>
+  <textarea name="textarea" cols="45" rows="7" wrap="off"></textarea>
+</p>
+<p>
+  <input type="submit" name="button" id="button" value="Submit" />
+</p>
+<div></div>
+
+</center>
+<img src="photos/map.png" width="250" height="200" align="center" />
+<div id ="footer">
+  <center>
+    <p><a href="https://www.google.com/maps/place/Tennis+Town+%26+Country/@37.439974,-122.158635,16z/data=!4m2!3m1!1s0x0:0x7cffe4df921d6774?hl=en">Town and Country Village #99 Palo Alto CA 94301.</a> Phone (650)-328-3223. Open Monday-Saturday 10 am - 7 pm Sunday 12 pm to 5 pm.</p>
+    </p>
+    <p>      &copy;Tennis Town and Country | Noah Milman, 2014. All rights reserved</p>
+</center></div>
+</body>
+</html>
