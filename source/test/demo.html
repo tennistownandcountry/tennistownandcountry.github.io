@@ -1,0 +1,260 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style>
+nav {
+	display: block;
+	text-align: center;
+
+}
+nav ul {
+  margin: 0;
+  padding:0;
+  list-style: none;
+}
+.nav a {
+  display:block; 
+  background: #000000; 
+  color: #fff; 
+  text-decoration: none;
+  padding: 0.8em 1.8em;
+  text-transform: uppercase;
+  font-size: 80%;
+  letter-spacing: 2px;
+  text-shadow: 0 -1px 0 #000;
+  position: relative;
+}
+.nav{  
+  vertical-align: top; 
+  display: inline-block;
+  box-shadow: 
+    1px -1px -1px 1px #000, 
+    -1px 1px -1px 1px #fff, 
+    0 0 6px 3px #fff;
+  border-radius:6px;
+}
+.nav > li { 
+  float: left; 
+  border-bottom: 4px #aaa solid; 
+  margin-right: 1px; 
+} 
+.nav > li > a { 
+  margin-bottom: 1px;
+  box-shadow: inset 0 2em .33em -0.5em #555; 
+}
+.nav li {
+  position: relative;
+}
+.nav > li:hover, 
+.nav > li:hover > a { 
+  border-bottom-color: orange;
+}
+.nav li:hover > a { 
+  color:orange; 
+}
+.nav > li:first-child {
+	border-radius: 4px 0 0 4px;
+	color: rgba(253,195,51,1.00);
+} 
+.nav > li:first-child > a {
+	border-radius: 4px 0 0 0;
+
+}
+.nav > li:last-child { 
+  border-radius: 0 0 4px 0; 
+  margin-right: 0;
+} 
+.nav > li:last-child > a { 
+  border-radius: 0 4px 0 0;
+}
+.nav li li a { 
+  margin-top: 1px;
+}
+
+
+
+
+.nav li a:first-child:nth-last-child(2):before { 
+  content: ""; 
+  position: absolute; 
+  height: 0; 
+  width: 0; 
+  border: 5px solid transparent; 
+  top: 50% ;
+  right:5px;  
+ }
+ /* submenu positioning*/
+.nav ul {
+  position: absolute;
+  white-space: nowrap;
+  border-bottom: 5px solid black;
+  z-index: 1;
+  left: -99999em;
+}
+.nav > li:hover > ul {
+  left: auto;
+  margin-top: 5px;
+  min-width: 100%;
+}
+.nav > li li:hover > ul { 
+  left: 100%;
+  margin-left: 1px;
+  top: -1px;
+}
+/* arrow hover styling */
+.nav > li > a:first-child:nth-last-child(2):before { 
+  border-top-color: #aaa; 
+}
+.nav > li:hover > a:first-child:nth-last-child(2):before {
+  border: 5px solid transparent; 
+  border-bottom-color: orange; 
+  margin-top:-5px
+}
+.nav li li > a:first-child:nth-last-child(2):before {  
+  border-left-color: #aaa; 
+  margin-top: -5px
+}
+.nav li li:hover > a:first-child:nth-last-child(2):before {
+  border: 5px solid transparent; 
+  border-right-color: orange;
+  right: 10px; 
+}
+p{
+	font-family: jockey-one;
+	font-style: normal;
+	font-weight: 400;
+	font-size: large;
+}
+body{
+	background-image= url(photos/DSC02264.jpg  ) ; 
+	background-size: 800x800px;
+background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+background-color: color|transparent|initial|inherit;
+	background-color: #FDC333;
+	color: #000000;
+	text-align: center;
+	border-color: #FDC333;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-right-style: none;
+	font-family: jockey-one;
+	font-style: normal;
+	font-weight: 400;
+	font-size: large;
+	align: justify;
+}
+  #footer {
+	width:100%;
+	left:0px;
+	bottom:0px;
+	width:100%;
+	border-top: 0px solid black;
+	border-bottom: 0px solid black;
+
+border-right: 0px solid black;
+
+border-left: 0px solid black;
+
+	background-color: transparent;
+	text-indemt: 5 px;
+	position: absolute-bottom;
+}
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Demo Racquets</title>
+</head>
+
+
+<body>
+    <p>&nbsp;</p>
+<h1 align="center"> <a href="index.html"><img src="photos/logo.gif" width="63" height="35" align="center" border="4px" border-color="#000000" /></a> Tennis Town and Country </h1>
+<center>
+<h2>Demo Program</h2>
+
+</center>
+
+<nav>
+  <ul class="nav">
+    <li><a href="#">Racquets</a>
+      <ul>
+        <li><a href="Racquets/Wilson/wilson_racquets.html">Wilson</a></li>
+        <li><a href="Racquets/Babolat/babolat_racquets.html">Babolat</a></li>
+        <li><a href="Racquets/Head/head_racquets.html">Head</a></li>
+        <li><a href="Racquets/Prince/prince_racquets.html">Prince</a></li>
+        <li><a href="Racquets/Volkl/volkl_racquets.html">Volkl</a></li>
+        <li><a href="Racquets/junior_racquets.html">Junior Racquets</a></li>
+      </ul>
+    </li>
+    <li> <a href="#">Shoes</a>
+      <ul>
+        <li><a href="#">Wilson</a>
+          <ul>
+            <li><a href="Shoes/Wilson/wilson_shoes_men.html">Mens</a></li>
+            <li><a href="Shoes/Wilson/wilson_womens_shoes.html">Womens</a></li>
+          </ul>
+        <li><a href ="#">Babolat</a>
+          <ul>
+            <li><a href="Shoes/Babalot/babolat_mens_shoes.html">Mens</a></li>
+            <li><a href="Shoes/Babalot/babolat_womens_shoes.html">Womens</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Asics</a>
+          <ul>
+            <li><a href="Shoes/Asics/asics_mens_shoes.html">Mens</a></li>
+            <li><a href="Shoes/Asics/asics_womens_shoes.html">Womens</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Prince</a>
+          <ul>
+            <li><a href="Shoes/Prince/prince_mens_shoes.html">Mens</a></li>
+            <li><a href="Shoes/Prince/prince_womens_shoes.html">Womens</a></li>
+          </ul>
+        </li>
+        <li><a href="#">K Swiss</a>
+          <ul>
+            <li><a href="Shoes/KSwiss/kswiss_mens_shoes.html">Mens</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#">Apparel</a>
+      <ul>
+        <li><a href="Apparel/Mens/mens_apparel.html">Mens</a></li>
+        <li><a href="Apparel/Womens/womens_apparel.html">Womens</a></li>
+        <li><a href="Apparel/Junior_Boys/jb_apparel.html">Junior Boys</a></li>
+        <li><a href="Apparel/Junior_Girls/jg_apparel.html">Junior Girls</a></li>
+      </ul>
+    </li>
+    <li><a href="strings/string.html">Stringing</a>
+      
+    </li>
+     <li><a href="demo.html">Demo Program</a></li>
+      <li><a href="contact_us.html">Contact</a></li>
+     <li><a href ="our_team.html">Our Team!</a></li>
+     
+   
+   
+   
+  </ul>
+  </ul>
+</nav>
+<p>
+<center>
+
+With our racquet demo program you can try various racquets before you decide which one is best for you. There is a one time fee of $40 at the start of the program, which allows you to try 1-2 racquets at a time per week. The program last for 6 weeks, during which we will dilligently monitor your comments regarding each racquet. Finally once you decide, we will apply the $40 fee to the purchase price of your racquet.
+
+</center>
+</p>
+<img src="photos/DSC02264.JPG" width="1067" height="800" />
+<p>
+<div id ="footer">
+  <center>
+    <p><a href="https://www.google.com/maps/place/Tennis+Town+%26+Country/@37.439974,-122.158635,16z/data=!4m2!3m1!1s0x0:0x7cffe4df921d6774?hl=en">Town and Country Village #99 Palo Alto CA 94301.</a> Phone (650)-328-3223. Open Monday-Saturday 10 am - 7 pm Sunday 12 pm to 5 pm.</p>
+    </p>
+    <p>      &copy;Tennis Town and Country | Noah Milman, 2014. All rights reserved</p>
+</center></div>
+</p>
+</body>
+</html>
