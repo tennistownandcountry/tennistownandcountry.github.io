@@ -5,7 +5,7 @@ sidebar: collapse
 
 ##Welcome to Palo Alto's Best Tennis Shop
 
-We timi strive to provide the best and most appropriate tennis equipment to
+We strive to provide the best and most appropriate tennis equipment to
 all our customers.  We have the best stringers, the best stringing machine,
 and we take the most care of your equipment and your needs.  We will help
 you play your best, and have a lot of fun while doing your best.
