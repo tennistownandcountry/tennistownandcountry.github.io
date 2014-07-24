@@ -22,7 +22,7 @@ $text-color-light: #aaa !default;
 $type-border: #ddd !default;
 
 /* Navigation */
-$nav-bg: #ea4077 !default;
+$nav-bg: #ff0011 !default;
 $nav-color: lighten($nav-bg, 38) !default;
 $nav-color-hover: lighten($nav-color, 25) !default;
 $nav-placeholder: desaturate(darken($nav-bg, 10), 15) !default;
