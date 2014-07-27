@@ -4,7 +4,7 @@
   <title><![CDATA[Tennis Town and Country]]></title>
   <link href="http://tennistownandcountry.github.io/atom.xml" rel="self"/>
   <link href="http://tennistownandcountry.github.io/"/>
-  <updated>2014-07-26T16:41:06-07:00</updated>
+  <updated>2014-07-27T05:04:17-07:00</updated>
   <id>http://tennistownandcountry.github.io/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Women's night of tennis]]></title>
+    <link href="http://tennistownandcountry.github.io/blog/womens-night-of-tennis/"/>
+    <updated>2014-07-17T21:17:00-07:00</updated>
+    <id>http://tennistownandcountry.github.io/blog/womens-night-of-tennis</id>
+    <content type="html"><![CDATA[<p>&lt;img src=&ldquo;../../images/photos/
+We migrated Tennis Town and Country from a flash based site to a jazzy new smart-phone compatible site.  It is simpler, streamlined, and
+should be more informative to you (our valued customers) in the upcoming months.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New Site Launch!]]></title>
