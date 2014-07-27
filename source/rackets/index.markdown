@@ -5,38 +5,9 @@ sidebar: collapse
 
 ##Rackets!
 
+We have an extensive collection of rackets from Babolat, Head, Yonex, Prince, Wilson, and more.  Among our great rackets that
+might be perfect for you are the MP Speed, the PureStrike, the AeroPro, and the Blade. Come in to talk to
+us about your game and racket needs, and we will let you try out the rackets that might be a perfect match for you.
 
-###Babolat
+<img src="../images/photos/DSC02264_w801.jpg" width="801"/>
 
-
-  <img style="float:left" src = "../images/babolat_rackets/purestrike_1820.jpg" title = "" width="217" height="223" />
-
-  <img style="float:left" src = "../images/babolat_rackets/purestrike_1619.jpg" title = "" width="217" height="223" />
-  <img style="float:left" src = "../images/babolat_rackets/purestrike_tour.jpg" title = "" width="217" height="223" />
-
-  <img style="float:left" src = "../images/babolat_rackets/purestrike_100.jpg" title = "" width="217" height="223" />
-
-  <img style="float:left" src = "../images/babolat_rackets/pure_control.jpg" title = "" width="217" height="223" />
-
-  <img style="float:left" src = "../images/babolat_rackets/pure_control_tour.jpg" title = "" width="217" height="223" />
-  <img style="float:left" src = "../images/babolat_rackets/puredrive.jpg" title = "" width="217" height="223" />
-
-  <img style="float:left" src = "../images/babolat_rackets/puredrive_wimbledon.jpg" title = "" width="217" height="223" />
-  <img style="float:left" src = "../images/babolat_rackets/puredrive_plus.jpg" title = "" width="217" height="223" />
-  <img style="float:left" src = "../images/babolat_rackets/puredrive_roddick_plus.jpg" title = "" width="217" height="223" />
-  <img style="float:left" src = "../images/babolat_rackets/puredrive_lite.jpg" title = "" width="217" height="223" />
-
-  <img style="float:left" src = "../images/babolat_rackets/puredrive_107.jpg" title = "" width="217" height="223" />
-  <img style="float:left" src = "../images/babolat_rackets/drive_lite_bluewhite.jpg" title = "" width="217" height="223" />
-  <img style="float:left" src = "../images/babolat_rackets/drive_lite_blackpink.jpg" title = "" width="217" height="223" />
-  <img style="float:left" src = "../images/babolat_rackets/aeropro_drive.jpg" title = "" width="217" height="223" />
-  <img style="float:left" src = "../images/babolat_rackets/aeroprodrive_plus.jpg" title = "" width="217" height="223" />
-  <img style="float:left" src = "../images/babolat_rackets/aeroprodrive_wimbeldon.jpg" title = "" width="217" height="223" />
-  <img style="float:left" src = "../images/babolat_rackets/aeropro_team.jpg" title = "" width="217" height="223" />
-  <img style="float:left" src = "../images/babolat_rackets/aeropro_lite.jpg" title = "" width="217" height="223" />
-
-<div style="clear: both" />
-
-###Head
-
-###Yonex
