@@ -4,7 +4,7 @@
   <title><![CDATA[Tennis Town and Country]]></title>
   <link href="http://tennistownandcountry.github.io/atom.xml" rel="self"/>
   <link href="http://tennistownandcountry.github.io/"/>
-  <updated>2014-07-27T05:04:17-07:00</updated>
+  <updated>2014-07-27T05:07:01-07:00</updated>
   <id>http://tennistownandcountry.github.io/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -18,8 +18,12 @@
     <link href="http://tennistownandcountry.github.io/blog/womens-night-of-tennis/"/>
     <updated>2014-07-17T21:17:00-07:00</updated>
     <id>http://tennistownandcountry.github.io/blog/womens-night-of-tennis</id>
-    <content type="html"><![CDATA[<p>&lt;img src=&ldquo;../../images/photos/
-We migrated Tennis Town and Country from a flash based site to a jazzy new smart-phone compatible site.  It is simpler, streamlined, and
+    <content type="html"><![CDATA[<p><img src="../../images/photos/DSC02328_w920.jpg"></p>
+
+<p><img src="../../images/photos/DSC02328_w920.jpg">
+<img src="../../images/photos/DSC02328_w920.jpg"></p>
+
+<p>We migrated Tennis Town and Country from a flash based site to a jazzy new smart-phone compatible site.  It is simpler, streamlined, and
 should be more informative to you (our valued customers) in the upcoming months.</p>
 ]]></content>
   </entry>
