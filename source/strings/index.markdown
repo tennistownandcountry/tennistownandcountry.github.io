@@ -3,14 +3,25 @@ layout: page
 sidebar: collapse
 ---
 
+<div style="float:right">
+<img src="../images/CIMG2731_25p.jpg"   width="689" height="392" />
+</div>
+
 ##Strings and Stringing
 
 We will make your racket play at its best for you, by painstakingly stringing
 to your specifications with the best stringing machine of the decade: the Wilson Bajardo.
 The Stanford Men's Tennis Team trusts us to string their rackets, so why don't you give us a try too!
 
-<img src="../images/photos/stringing_machine2_w980.jpg">
 
+<img src="../images/CIMG2748_25p.jpg"  width="736" height="652" />
+
+<img src="../images/photos/kris_w980.jpg">
+
+
+
+<!--
+<img src="../images/photos/stringing_machine2_w980.jpg">
 
 ###Babolat
 
@@ -33,4 +44,5 @@ The Stanford Men's Tennis Team trusts us to string their rackets, so why don't y
 <img src="../images/head_strings/sp.jpg" width="230">
 <img src="../images/head_strings/sp_edge.jpg" width="230">
 
+-->
 

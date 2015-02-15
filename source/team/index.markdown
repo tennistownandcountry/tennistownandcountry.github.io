@@ -27,6 +27,8 @@ We are a family-run business, with a very personal touch.  Let us help you to ha
 <img src="../images/photos/gabino_w980.jpg">
 
 
+<!--
+
 ###Valentino : Shoe Specialist
 
 <img src="../images/photos/valentino_w980.jpg">
@@ -34,4 +36,6 @@ We are a family-run business, with a very personal touch.  Let us help you to ha
 ###Noah : Stringer
 
 <img src="../images/photos/noah_w980.jpg">
+
+-->
 

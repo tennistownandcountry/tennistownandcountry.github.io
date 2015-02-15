@@ -3,8 +3,16 @@ layout: page
 sidebar: collapse
 ---
 
+<div style="float: right">
+<img src="../images/CIMG2729_25p.jpg"   width="652" height="804" />
+</div>
+
 ##Shoes!
 
+Your feet can feel cool, comfortable, and grippy with brands like Asics, Prince, Wilson, Head, and New Balance (among others)
+
+
+<!--
 
 ###Asics
 
@@ -17,3 +25,6 @@ sidebar: collapse
 
 ####Women's
 
+<img src="../images/CIMG2730_25p.jpg"   width="636" height="969" />
+
+-->
