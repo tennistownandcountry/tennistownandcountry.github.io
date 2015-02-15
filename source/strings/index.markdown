@@ -7,6 +7,7 @@ sidebar: collapse
 
 We will make your racket play at its best for you, by painstakingly stringing
 to your specifications with the best stringing machine of the decade: the Wilson Bajardo.
+The Stanford Men's Tennis Team trusts us to string their rackets, so why don't you give us a try too!
 
 <img src="../images/photos/stringing_machine2_w980.jpg">
 
