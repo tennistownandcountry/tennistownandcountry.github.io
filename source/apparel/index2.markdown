@@ -35,4 +35,24 @@ sidebar: collapse
 
 
 
+###Misc
+
+<img src="../images/CIMG2726_25p.jpg" width="697" height="1032" />
+<img src="../images/CIMG2727_25p.jpg   width="901" height="352" />
+<img src="../images/CIMG2728_25p.jpg   width="901" height="352" />
+<img src="../images/CIMG2729_25p.jpg   width="901" height="352" />
+<img src="../images/CIMG2730_25p.jpg   width="901" height="352" />
+<img src="../images/CIMG2731_25p.jpg   width="901" height="352" />
+<img src="../images/CIMG2732_25p.jpg   width="901" height="352" />
+<img src="../images/CIMG2733_25p.jpg   width="901" height="352" />
+<img src="../images/CIMG2734_25p.jpg  width="901" height="352" />
+<img src="../images/CIMG2735_25p.jpg   width="901" height="352" />
+<img src="../images/CIMG2736_25p.jpg   width="901" height="352" />
+<img src="../images/CIMG2737_25p.jpg   width="901" height="352" />
+<img src="../images/CIMG2738_25p.jpg   width="901" height="352" />
+<img src="../images/CIMG2739_25p.jpg   width="901" height="352" />
+<img src="../images/CIMG2747_25p.jpg  width="901" height="352" />
+<img src="../images/CIMG2748_25p.jpg  width="901" height="352" />
+<img src="../images/CIMG2751_25p.jpg  width="901" height="352" />
+
 
