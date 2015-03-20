@@ -16,4 +16,10 @@ We also have a FAX: (650) 328-3224.
 
 You can also call <a href="tel:+16503283223">(650) 328-3223</a> or <a href="mailto:todor@tennistownandcountry.com?subject=Order">email</a> us if you know what you like to buy.  We will have it ready for you!
 
+### Store Hours
+
+We are open Monday through Saturday from 10AM to 7PM.  On Sunday we are open from Noon to 5PM.  See you soon!
+
+
+
 
